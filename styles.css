@@ -37,7 +37,7 @@ main {
   background-color: var(--White);
   border: 1px solid var(--Gray-950);
   width: 350px;
-  box-shadow: 6px 6px var(--Gray-950);
+  box-shadow: 5px 5px var(--Gray-950);
 }
 
 img {
